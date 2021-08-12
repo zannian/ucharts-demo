@@ -1,0 +1,13 @@
+.container {
+  height: 150vh;
+}
+
+#canvas_pie {
+  width: 750rpx;
+  height: 750rpx;
+}
+
+/* .canvas {
+  width: 100wh;
+  height: 100wh;
+} */
