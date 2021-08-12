@@ -1,0 +1,4 @@
+<view class="container">
+  <canvas id="canvas_pie" class="canvas" canvas-id="canvas_pie" type="2d" bindtap="touchPie"></canvas>
+  <canvas id="canvas_bar" class="canvas" canvas-id="canvas_bar" type="2d" bindtap="touchPie"></canvas>
+</view>
